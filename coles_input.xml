@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<rss xmlns:g="http://base.google.com/ns/1.0" version="2.0">
+	<channel>
+		<title>XML Export</title>
+		<link>https://www.coles.com.au/</link>
+		<description>This file contains required product data converted to Google Merchant Center xml for ShopFully</description>
+<item>
+ <id>1002170-PLA</id>
+ <state>QLD</state>
+ <gtin>9341650002442</gtin>
+ <mpn>1002170-PLA</mpn>
+ <brand>Vitasoy</brand>
+ <title>Vitasoy Oat Yogurt Vanilla | 450g</title>
+ <price>5.80 AUD</price>
+ <sale_price>4.50 AUD</sale_price>
+ <description>Do Yogurt The Vitasoy Way! Full Of Calcium And A Serve Of Protein, Vitasoy Oat Yogurt Vanilla Has A Smooth &amp; Creamy Taste , And Is The Perfect Breakfast Addition, Snack Or Cooking Companion. Vitasoy Oat Yogurt Vanilla | 450G</description>
+ <link>https://www.coles.com.au/product/vitasoy-oat-yogurt-vanilla-450g-1002170</link>
+ <image_link>https://cdn.productimages.coles.com.au/1280x1280/1/1002170.jpg</image_link>
+ <availability>In Stock</availability>
+</item>
+<item>
+ <id>1002170-PLA</id>
+ <state>TAS</state>
+ <gtin>9341650002442</gtin>
+ <mpn>1002170-PLA</mpn>
+ <brand>Vitasoy</brand>
+ <title>Vitasoy Oat Yogurt Vanilla | 450g</title>
+ <price>5.80 AUD</price>
+ <sale_price>4.99 AUD</sale_price>
+ <description>Do Yogurt The Vitasoy Way! Full Of Calcium And A Serve Of Protein, Vitasoy Oat Yogurt Vanilla Has A Smooth &amp; Creamy Taste , And Is The Perfect Breakfast Addition, Snack Or Cooking Companion. Vitasoy Oat Yogurt Vanilla | 450G</description>
+ <link>https://www.coles.com.au/product/vitasoy-oat-yogurt-vanilla-450g-1002170</link>
+ <image_link>https://cdn.productimages.coles.com.au/1280x1280/1/1002170.jpg</image_link>
+ <availability>In Stock</availability>
+</item>
+<item>
+ <id>1002170-PLA</id>
+ <state>VIC</state>
+ <gtin>9341650002442</gtin>
+ <mpn>1002170-PLA</mpn>
+ <brand>Vitasoy</brand>
+ <title>Vitasoy Oat Yogurt Vanilla | 450g</title>
+ <price>5.80 AUD</price>
+ <sale_price>4.20 AUD</sale_price>
+ <description>Do Yogurt The Vitasoy Way! Full Of Calcium And A Serve Of Protein, Vitasoy Oat Yogurt Vanilla Has A Smooth &amp; Creamy Taste , And Is The Perfect Breakfast Addition, Snack Or Cooking Companion. Vitasoy Oat Yogurt Vanilla | 450G</description>
+ <link>https://www.coles.com.au/product/vitasoy-oat-yogurt-vanilla-450g-1002170</link>
+ <image_link>https://cdn.productimages.coles.com.au/1280x1280/1/1002170.jpg</image_link>
+ <availability>In Stock</availability>
+</item>
+</channel>
+</rss>
