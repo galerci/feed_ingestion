@@ -22,7 +22,7 @@
 <g:sale_price>15.00</g:sale_price>
 <g:price_suffix>$25.00 per 100ea</g:price_suffix>
 <g:availability>In Stock</g:availability>
-<g:product_type>BEST OFFERS</g:product_type>
+<g:product_type>Selected Weekly Specials</g:product_type>
 </item>
 <item>
 <g:id>1083499-PLA</g:id>
@@ -37,7 +37,7 @@
 <g:sale_price>15.00</g:sale_price>
 <g:price_suffix>$25.00 per 100ea</g:price_suffix>
 <g:availability>In Stock</g:availability>
-<g:product_type>BEST OFFERS</g:product_type>
+<g:product_type>Selected Weekly Specials</g:product_type>
 </item>
 <item>
 <g:id>2108347-PLA</g:id>
@@ -52,7 +52,7 @@
 <g:sale_price>22.50</g:sale_price>
 <g:price_suffix>$37.50 per 100ea</g:price_suffix>
 <g:availability>In Stock</g:availability>
-<g:product_type>BEST OFFERS</g:product_type>
+<g:product_type>Selected Weekly Specials</g:product_type>
 </item>
 <item>
 <g:id>1083524-PLA</g:id>
@@ -67,7 +67,7 @@
 <g:sale_price>15.00</g:sale_price>
 <g:price_suffix>$12.50 per 100ea</g:price_suffix>
 <g:availability>In Stock</g:availability>
-<g:product_type>BEST OFFERS</g:product_type>
+<g:product_type>Selected Weekly Specials</g:product_type>
 </item>
 <item>
 <g:id>1083546-PLA</g:id>
@@ -82,7 +82,7 @@
 <g:sale_price>22.00</g:sale_price>
 <g:price_suffix>$0.55 per 1ea</g:price_suffix>
 <g:availability>In Stock</g:availability>
-<g:product_type>BEST OFFERS</g:product_type>
+<g:product_type>Selected Weekly Specials</g:product_type>
 </item>
 <item>
 <g:id>1083557-PLA</g:id>
@@ -97,7 +97,7 @@
 <g:sale_price>21.00</g:sale_price>
 <g:price_suffix>$1.05 per 1ea</g:price_suffix>
 <g:availability>In Stock</g:availability>
-<g:product_type>BEST OFFERS</g:product_type>
+<g:product_type>Selected Weekly Specials</g:product_type>
 </item>
 <item>
 <g:id>1083660-PLA</g:id>
@@ -112,7 +112,7 @@
 <g:sale_price>15.00</g:sale_price>
 <g:price_suffix>$37.50 per 100ea</g:price_suffix>
 <g:availability>In Stock</g:availability>
-<g:product_type>BEST OFFERS</g:product_type>
+<g:product_type>Selected Weekly Specials</g:product_type>
 </item>
 <item>
 <g:id>1083706-PLA</g:id>
@@ -127,7 +127,7 @@
 <g:sale_price>16.00</g:sale_price>
 <g:price_suffix>$16.00 per 100ea</g:price_suffix>
 <g:availability>In Stock</g:availability>
-<g:product_type>BEST OFFERS</g:product_type>
+<g:product_type>Selected Weekly Specials</g:product_type>
 </item>
 <item>
 <g:id>1083750-PLA</g:id>
@@ -142,7 +142,7 @@
 <g:sale_price>15.00</g:sale_price>
 <g:price_suffix>$50.00 per 100ea</g:price_suffix>
 <g:availability>In Stock</g:availability>
-<g:product_type>BEST OFFERS</g:product_type>
+<g:product_type>Selected Weekly Specials</g:product_type>
 </item>
 <item>
 <g:id>1083761-PLA</g:id>
@@ -157,7 +157,7 @@
 <g:sale_price>18.00</g:sale_price>
 <g:price_suffix>$30.00 per 100ea</g:price_suffix>
 <g:availability>In Stock</g:availability>
-<g:product_type>BEST OFFERS</g:product_type>
+<g:product_type>Selected Weekly Specials</g:product_type>
 </item>
 </channel>
 </rss>
